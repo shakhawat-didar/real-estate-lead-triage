@@ -1,0 +1,1 @@
+Add sanitized project screenshots here. Suggested filenames: skill-overview.png, triage-results.png, google-drive-connector.png, excluded-contacted-lead.png, missing-data-test.png. Blur emails, phone numbers, account names, and other private details before publishing.

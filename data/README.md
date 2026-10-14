@@ -1,0 +1,1 @@
+Do not commit the original real_estate_leads.xlsx file unless you have permission and have removed or anonymized personal contact information. For a public repository, create a synthetic sample workbook with fictional names, emails, phone numbers, and dates.

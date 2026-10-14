@@ -1,0 +1,13 @@
+flowchart TD
+    A[User asks Claude to triage today's leads] --> B[Run lead-triage Skill]
+    B --> C[Read Google Sheets via Drive connector]
+    C --> D[Real Estate Leads tab]
+    C --> E[Inventory tab]
+    D --> F[Keep Status = New]
+    E --> G[Filter available properties]
+    F --> H[Match budget + property type]
+    G --> H
+    H --> I[Consider lead source]
+    I --> J[Assign priority with reason]
+    J --> K[Suggest next action]
+    K --> L[Return triage table]
